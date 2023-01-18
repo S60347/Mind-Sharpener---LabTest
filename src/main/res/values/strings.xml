@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MindSharpener</string>
+    <string name="text1">Instructions:</string>
+    <string name="text2">This is a simple mathematic games which is believe can train your mind.
+        Two numbers are given randomly based on your level choice with a mathematics operator. You
+        just calculates the answer, write your answer and press check button. Every correct answer
+        will give you 1 point and any wrong answer will deduct 1 point.</string>
+    <string name="text3">Choose Level</string>
+    <string name="text4">Easy</string>
+</resources>
